@@ -2,15 +2,16 @@
 32-bit microprocessor  with  an  instruction  set  that  is  similar  to  a  MIPS. 
 (not orginal work, from digital design class)
 componenets include (coded in VHDL):
-ALU
-ALU conttroller
-MUX2x1
-MUX3x1
-MUX4x1
-RAM
-Signal controller
-Instruction register 
-Register file
+ALU,
+ALU conttroller,
+MUX2x1,
+MUX3x1,
+MUX4x1,
+RAM,
+Signal controller,
+Instruction register,
+Register file,
+
 Architecture:
 
 ![image](https://user-images.githubusercontent.com/97696885/166228959-4e0bb51b-d292-4090-b810-374fb2417a72.png)
