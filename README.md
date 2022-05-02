@@ -22,3 +22,9 @@ Intruction set:
 
 ![image](https://user-images.githubusercontent.com/97696885/166223841-d0b41067-cccf-4b5a-b53a-97e739bf7070.png)
 ![image](https://user-images.githubusercontent.com/97696885/166223924-7d1271c5-dea9-4ac3-b8c6-9de4b65c3371.png)
+
+Some test cases and test file included
+example output:
+
+![testcase7](https://user-images.githubusercontent.com/97696885/166229438-ebacf871-4112-4139-affb-4edf2a015add.png)
+
